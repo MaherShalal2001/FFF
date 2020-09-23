@@ -3,9 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    overflow: hidden !important;
-}
 #top{
     background-image: url("background.png");
     background-size: cover;
@@ -76,9 +73,9 @@ body{
         position: absolute;
         right: 0px;
         min-height: 7vh;
-        top: 12%;
+        top: 20%;
         width: 50%;
-        border-radius: 60px;
+        border-radius: 15px;
         display: flex;
         flex-direction: column;
         align-items: left;
